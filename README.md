@@ -28,4 +28,4 @@ An app to schedule &amp; optimize after-school pickup, reduce vehicle idling / e
 <p>How will we know what time a parent arrives? The app uses GPS just like Walmart pickup. We can also use voice recognition to record the times / names that get announced by the teacher over the loudspeaker.</p>
 <p>What if a parent arrives at the wrong time? They can still pick up their child. But they get a point penalty in the app, which results in them getting later times the following week.</p>
 <p>There could be a point system. The closer a parent arrives to their assigned time, the more points they get each day. Carpooling could give bonus points. Each week, the order is determined by the number of points each family/parent has.</p>
-<p>If you would help to support this project, please show your support in the project <a href="https://github.com/bryan7238/smartline/discussions/1">discussion</a> section or message Bryan.</p>
+<p>If you would help to support this project, please show your support in the project <a href="https://github.com/bryan7238/smartline/discussions/1">discussion</a> section or email Bryan at info@alwayslearn.org</p>
